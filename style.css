@@ -1,0 +1,18 @@
+body {
+    background-color: #edd6ff;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+h1 {
+    color: #000080;
+    text-align: center;
+}
+
+h2 {
+    color: #191970;
+}
+
+p {
+    line-height: 1.6;
+}
